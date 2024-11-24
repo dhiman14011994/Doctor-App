@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>265155772290-i9jljbmsa8ab6mfatt7uumltmeg9i3dr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.265155772290-i9jljbmsa8ab6mfatt7uumltmeg9i3dr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>265155772290-9vlob13asc75pqvlbrii78jjhgfb3o8v.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBdZPCfxp2JTP6_WnVxpdxMJWSndA95210</string>
+	<key>GCM_SENDER_ID</key>
+	<string>265155772290</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.codefacts.mindtalks.partner</string>
+	<key>PROJECT_ID</key>
+	<string>mindtalk-e20c5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mindtalk-e20c5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:265155772290:ios:762f1ca0529b4e7575199b</string>
+	<key>DATABASE_URL</key>
+	<string>https://mindtalk-e20c5-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
